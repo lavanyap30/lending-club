@@ -41,7 +41,7 @@ Give credit here.
 - This project was assigned as a case study in my PG Course by IIITB associated with UpGrad
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@githublavanyap30] - feel free to contact me!
 
 
 <!-- Optional -->
