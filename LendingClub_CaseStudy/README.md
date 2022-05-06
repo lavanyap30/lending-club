@@ -1,45 +1,44 @@
 # Project Name
-> Outline a brief description of your project.
+> Its a case study on analysing loan approvals.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
+* Problem Statement
+* Data set considered
+* Data Analysing and Observations
+* Data Cleaning
+* Sanity Checks
+* Data Visualization
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
+    - The project is all about analysing if the loan can be approved to the customer based on the previous actions.
 - What is the background of your project?
+    - Lending club is the loan partner company which gives loans to its customers for multiple purposes
 - What is the business probem that your project is trying to solve?
+    - Based on the previous loan clearance, analyse if loan can be approved to the candidates now. Considering all the risk elements and loan status, teh decisions has       to be taken
 - What is the dataset that is being used?
+    - Data of the customer on previous loans provided
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Out of the data provided, 31674 customers loan can be approved without any risk.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.7
+- Data Visualization libraries - Pandas and Matplotlib
+- Visual Studio
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was assigned as a case study in my PG Course by IIITB associated with UpGrad
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
